@@ -2,7 +2,7 @@
 Sample from a trained model
 """
 import os
-import pickle
+import pickle 
 from contextlib import nullcontext
 import torch
 import tiktoken
