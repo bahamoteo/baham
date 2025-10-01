@@ -9,7 +9,7 @@ The simplest, fastest repository for training/finetuning medium-sized GPTs. It i
 
 Because the code is so simple, it is very easy to hack to your needs, train new models from scratch, or finetune pretrained checkpoints (e.g. biggest one currently available as a starting point would be the GPT-2 1.3B model from OpenAI).
 
-## install
+## install 
 
 ```
 pip install torch numpy transformers datasets tiktoken wandb tqdm
